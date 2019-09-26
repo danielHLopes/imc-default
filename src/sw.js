@@ -6,8 +6,8 @@ const urls = [
     '/assets/css/bootstrap.min.css',
     '/assets/images/delete.svg',
     '/assets/js/functions.js',
-    'assets/images/icons/icon-512x512.png',
-    'manifest.json"'
+    '/assets/images/icons/icon-512x512.png',
+    '/manifest.json'
 
 ]
 
